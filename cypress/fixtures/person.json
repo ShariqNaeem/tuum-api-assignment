@@ -1,0 +1,19 @@
+{
+    "personTypeCode":"P",
+    "identificationNumber":{
+    "primary":true,
+    "idNumber":"ID-12341243",
+    "idCountryCode":"EE"
+    },
+    "addresses":[
+    {
+    "addressTypeCode":"R",
+    "countryCode":"EE",
+    "cityCounty":"Tallinn",
+    "street1":"Address"
+    }
+    ],
+    "givenName":"Test",
+    "surname":"User"
+}
+    
